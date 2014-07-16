@@ -26,7 +26,7 @@ $app = new Illuminate\Foundation\Application;
 
 $env = $app->detectEnvironment(function()
 {
-    return gethostname() == 'homestead' ? 'local': 'local'; //TODO change ecle to prodaction
+    return gethostname() == 'homestead' ? 'local': 'prodaction'; //TODO change ecle to prodaction
     
 });
 
