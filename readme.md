@@ -5,5 +5,4 @@ You can:
 * add new task
 * filter task
 
-backend - laravel 4
-frontend - angular.js
+P.S. backend: laravel 4 and frontend: angular.js
